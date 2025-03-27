@@ -1,0 +1,9 @@
+# Basic testing framework
+pytest==7.3.1
+pytest-cov==4.1.0
+
+# Code coverage tool
+coverage==7.2.7
+
+# Documentation generation
+Sphinx==6.1.3 
