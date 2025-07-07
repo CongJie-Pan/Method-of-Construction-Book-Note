@@ -1,0 +1,11 @@
+構建之法 軟件設計與實現
+---
+https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/%E5%A6%82%E4%BD%95%E6%9C%89%E9%82%8F%E8%BC%AF%E7%9A%84%E9%87%90%E6%B8%85%E4%BA%8B%E7%89%A9%E7%9A%84%E7%8B%80%E6%85%8B-f9fb59b15054
+
+https://www.researchgate.net/figure/UCD-and-SD-a-UCD-b-UCD-graph-c-SD-for-authentication-of-PIN-in-ATM-system_fig5_332325880
+
+UML
+https://slickplan.com/blog/how-to-make-a-uml-diagram
+
+VDM
+https://link.springer.com/chapter/10.1007/978-0-85729-277-3_16
